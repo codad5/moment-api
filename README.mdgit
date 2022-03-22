@@ -1,0 +1,1 @@
+"# moment-api"  initgit add README.mdgit add cors.phpgit add signup.phpgit add login.phpgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/codad5/moment-api.gitgit push -u origin main
